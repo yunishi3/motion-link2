@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/motion-link2/static/js/main.81d30c90.chunk.js",
-    "main.js.map": "/motion-link2/static/js/main.81d30c90.chunk.js.map",
+    "main.js": "/motion-link2/static/js/main.2527ca80.chunk.js",
+    "main.js.map": "/motion-link2/static/js/main.2527ca80.chunk.js.map",
     "runtime-main.js": "/motion-link2/static/js/runtime-main.c65048bd.js",
     "runtime-main.js.map": "/motion-link2/static/js/runtime-main.c65048bd.js.map",
     "static/css/2.a99d8b3d.chunk.css": "/motion-link2/static/css/2.a99d8b3d.chunk.css",
-    "static/js/2.4c9df186.chunk.js": "/motion-link2/static/js/2.4c9df186.chunk.js",
-    "static/js/2.4c9df186.chunk.js.map": "/motion-link2/static/js/2.4c9df186.chunk.js.map",
+    "static/js/2.7aa3cc68.chunk.js": "/motion-link2/static/js/2.7aa3cc68.chunk.js",
+    "static/js/2.7aa3cc68.chunk.js.map": "/motion-link2/static/js/2.7aa3cc68.chunk.js.map",
     "index.html": "/motion-link2/index.html",
     "static/css/2.a99d8b3d.chunk.css.map": "/motion-link2/static/css/2.a99d8b3d.chunk.css.map",
-    "static/js/2.4c9df186.chunk.js.LICENSE.txt": "/motion-link2/static/js/2.4c9df186.chunk.js.LICENSE.txt",
+    "static/js/2.7aa3cc68.chunk.js.LICENSE.txt": "/motion-link2/static/js/2.7aa3cc68.chunk.js.LICENSE.txt",
     "static/media/brush-1317908_1920.7f2deb0a.jpg": "/motion-link2/static/media/brush-1317908_1920.7f2deb0a.jpg",
     "static/media/sample.bd749eea.mp4": "/motion-link2/static/media/sample.bd749eea.mp4",
     "static/media/woman-1869463_1920.dc599173.jpg": "/motion-link2/static/media/woman-1869463_1920.dc599173.jpg"
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.c65048bd.js",
     "static/css/2.a99d8b3d.chunk.css",
-    "static/js/2.4c9df186.chunk.js",
-    "static/js/main.81d30c90.chunk.js"
+    "static/js/2.7aa3cc68.chunk.js",
+    "static/js/main.2527ca80.chunk.js"
   ]
 }
