@@ -1,26 +1,32 @@
 {
   "files": {
-    "main.js": "/motion-link2/static/js/main.2d632ce0.chunk.js",
-    "main.js.map": "/motion-link2/static/js/main.2d632ce0.chunk.js.map",
+    "main.js": "/motion-link2/static/js/main.c302e92d.chunk.js",
+    "main.js.map": "/motion-link2/static/js/main.c302e92d.chunk.js.map",
     "runtime-main.js": "/motion-link2/static/js/runtime-main.c65048bd.js",
     "runtime-main.js.map": "/motion-link2/static/js/runtime-main.c65048bd.js.map",
     "static/css/2.a99d8b3d.chunk.css": "/motion-link2/static/css/2.a99d8b3d.chunk.css",
-    "static/js/2.fc670e2c.chunk.js": "/motion-link2/static/js/2.fc670e2c.chunk.js",
-    "static/js/2.fc670e2c.chunk.js.map": "/motion-link2/static/js/2.fc670e2c.chunk.js.map",
+    "static/js/2.8c8162b4.chunk.js": "/motion-link2/static/js/2.8c8162b4.chunk.js",
+    "static/js/2.8c8162b4.chunk.js.map": "/motion-link2/static/js/2.8c8162b4.chunk.js.map",
     "index.html": "/motion-link2/index.html",
     "static/css/2.a99d8b3d.chunk.css.map": "/motion-link2/static/css/2.a99d8b3d.chunk.css.map",
-    "static/js/2.fc670e2c.chunk.js.LICENSE.txt": "/motion-link2/static/js/2.fc670e2c.chunk.js.LICENSE.txt",
+    "static/js/2.8c8162b4.chunk.js.LICENSE.txt": "/motion-link2/static/js/2.8c8162b4.chunk.js.LICENSE.txt",
     "static/media/brush-1317908_1920.7f2deb0a.jpg": "/motion-link2/static/media/brush-1317908_1920.7f2deb0a.jpg",
     "static/media/thumbnail.12e06394.png": "/motion-link2/static/media/thumbnail.12e06394.png",
+    "static/media/thumbnail.45c9e4f0.png": "/motion-link2/static/media/thumbnail.45c9e4f0.png",
+    "static/media/thumbnail.5017d4a8.png": "/motion-link2/static/media/thumbnail.5017d4a8.png",
+    "static/media/thumbnail.b679ef71.png": "/motion-link2/static/media/thumbnail.b679ef71.png",
     "static/media/thumbnail.ed0f74f4.png": "/motion-link2/static/media/thumbnail.ed0f74f4.png",
+    "static/media/video.14b6377f.mp4": "/motion-link2/static/media/video.14b6377f.mp4",
     "static/media/video.22ef0f41.mp4": "/motion-link2/static/media/video.22ef0f41.mp4",
+    "static/media/video.4b117bcf.mp4": "/motion-link2/static/media/video.4b117bcf.mp4",
+    "static/media/video.937b73ea.mp4": "/motion-link2/static/media/video.937b73ea.mp4",
     "static/media/video.afa5303c.mp4": "/motion-link2/static/media/video.afa5303c.mp4",
     "static/media/woman-1869463_1920.dc599173.jpg": "/motion-link2/static/media/woman-1869463_1920.dc599173.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c65048bd.js",
     "static/css/2.a99d8b3d.chunk.css",
-    "static/js/2.fc670e2c.chunk.js",
-    "static/js/main.2d632ce0.chunk.js"
+    "static/js/2.8c8162b4.chunk.js",
+    "static/js/main.c302e92d.chunk.js"
   ]
 }
