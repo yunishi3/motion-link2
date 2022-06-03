@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-gggggggfit=no">
 	<meta name="theme-color" content="#000000">
 	<!--
       manifest.json provides metadata used when your web app is added to the
@@ -20,7 +20,55 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
-	<title>React App</title>
+	<title>Motion Link</title>
+  <script>
+    // import Videos from "../src/videos.json"
+    const path = sessionStorage.getItem('path');
+    // const videosData = Videos.data;
+    // console.log(path);
+    // for(let i in videosData){
+    //   if (path && path === '/motion-link2' + videosData[i]['path']) {
+    //     sessionStorage.removeItem('path');
+    //     window.history.replaceState(null, null, '.' + videosData[i]['path']);
+    //   }
+    // }
+    if (path && path === '/motion-link2/exercise-sample') {
+      sessionStorage.removeItem('path');
+      window.history.replaceState(null, null, './exercise-sample');
+    }
+    else if (path && path === '/motion-link2/exercise-yoga') {
+      sessionStorage.removeItem('path');
+      window.history.replaceState(null, null, './exercise-yoga');
+    }
+    else if (path && path === '/motion-link2/dance-bts') {
+      sessionStorage.removeItem('path');
+      window.history.replaceState(null, null, './dance-bts');
+    }
+    else if (path && path === '/motion-link2/dance-bts-short') {
+      sessionStorage.removeItem('path');
+      window.history.replaceState(null, null, './dance-bts-short');
+    }
+    else if (path && path === '/motion-link2/baseball') {
+      sessionStorage.removeItem('path');
+      window.history.replaceState(null, null, './baseball');
+    }
+    else if (path && path === '/motion-link2/exercise-box') {
+      sessionStorage.removeItem('path');
+      window.history.replaceState(null, null, './exercise-box');
+    }
+    else if (path && path === '/motion-link2/niziu') {
+      sessionStorage.removeItem('path');
+      window.history.replaceState(null, null, './niziu');
+    }
+    else if (path && path === '/motion-link2/paprika') {
+      sessionStorage.removeItem('path');
+      window.history.replaceState(null, null, './paprika');
+    }
+    else if (path && path === '/motion-link2/ebikani') {
+      sessionStorage.removeItem('path');
+      window.history.replaceState(null, null, './ebikani');
+    }
+  </script>
 </head>
 
 <body>
